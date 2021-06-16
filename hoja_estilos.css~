@@ -1,0 +1,196 @@
+h1 {color: #FFA500;
+   text-align: center; 
+       }
+h2 {color: #FFA500;
+   text-align: center;
+   }
+h3 {color: #FFA500;
+   text-align: center;
+   	font-size:16pt;
+   }
+   
+
+
+.cabeceralogo {height: 100px;
+	   width: 96px;	   
+	   background-image: url('./LogoTexto.jpg');
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  margin-left: -175px;
+	  padding-color: blue;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  border-color:white;
+	  border-width:5px;
+	  border-style:solid;}
+	  
+.cabecera {height: 180px;
+	   width: 850px;	   
+	   background-image: url('./cabecera_5.jpg');
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  margin-left: 175px;
+	  padding-color: blue;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  border-color:white;
+	  border-width:5px;
+	  border-style:solid;}
+	  
+
+
+/* Menu logos */
+
+#menulogos {height: 200px;
+	   width: 150px;	   	 
+	   padding-right: 0px;
+	  margin-top: 570px;	  
+	  margin-right: 0px;
+	  margin-left: -180px;
+	  border-color:white;
+	  border-width:0px;
+	  border-style:solid;
+          line-height:15px;
+	text-align:center;
+	float: left;
+		color: blue;} 
+
+/* Menu left */
+
+#menuleft {height: 550px;
+	   width: 180px;	   
+	   background: orange;
+	   padding-right: 0px;
+	  margin-top: 0px;	  
+	  margin-right: 20px;
+	  margin-left: 0px;
+	  border-color:white;
+	  border-width:0px;
+	  border-style:solid;
+          line-height:15px;
+	text-align:right;
+	float: left;} 
+
+#menuleft ul {
+	float: right;
+	list-style: none;
+	line-height: normal;
+}
+
+#menuleft li {
+	float: center;
+}
+
+#menuleft a {
+	display: block;
+	margin-right: 1px;
+	padding: 10px 15px 15px 15px;
+	background: url(images/img06.gif) no-repeat right 12px;
+	text-decoration: none;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	border: none;
+}
+
+#menuleft a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	color: blue;
+}
+
+/* Menu */
+
+#menu {height: 100px;
+	   width: 900px;	   
+	   background: orange;
+	  margin-top: 0px;
+	  margin-right: 0px;
+	  margin-left: 0px;
+	  border-color:orange;
+	  border-width:0px;
+	  border-style:solid;
+          line-height:12px;
+	text-align:center;
+	float: right;}      
+
+#menu ul {
+	float: right;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display: block;
+	margin-right: 1px;
+	padding: 10px 15px 15px 15px;
+	background: url(images/img06.gif) no-repeat left 12px;
+	text-decoration: none;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	border: none;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	color: blue;
+}
+
+#menu .current_page_item a {
+}
+
+.central {width: 900px;
+	margin-top:0px;
+	  margin-left: 200px;
+	  background:white;
+	 font-size:12pt;
+padding-bottom: 10px;}
+
+a:hover {text-decoration: none;
+	 color: blue;
+          }
+
+a {font-family: Arial,Verdana;
+   text-decoration: none;
+   color: black;
+   font-size:12pt;
+   }
+
+body {text-align: justify;
+      width: 1200px;
+     background: white;
+     margin-left:auto;
+     margin-right: auto;
+     color: black;}
+
+.boton {height:40px;
+	width:100px;
+        }
+
+.uno a {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 20px;
+		text-align: center;
+		text-decoration: blink;;
+		color: blue;
+		font-weight: bold;
+	}
+	.uno a:hover {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 20px;
+		text-decoration: blink;;
+		color: #FF0000;
+		font-weight: bold;
+	}

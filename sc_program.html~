@@ -1,0 +1,369 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HTML lang="en">
+<link REL="SHORTCUT ICON" HREF="./icono.gif">
+<head>
+  <title>IV Jornadas de Jóvenes Investigadores en Física Atómica y Molecular</title>
+  <link rel="stylesheet" type="text/css" href="hoja_estilos.css" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="generator" content="Bluefish 2.0.1" />
+</head>
+
+<body>
+<a href="./index.html"><img src="./LogoTexto.jpg" align="left" height="185" border="0" alt="Logo" /></a>
+<div class="cabecera">
+<big><h2>IV Jornadas de Jóvenes Investigadores en Física Atómica y Molecular</h2></big>
+<br>
+<big><h3>Granada, 1<sup>st</sup>-3<sup>rd</sup> February 2012</h3></big>
+</div>
+
+<div id="menuleft">
+<ul>
+  <li><a href="./index.html">Home</a> </li>
+  <li><a href="./sc_program.html">Scientific program</a></li>
+  <li><a href="./registration.html">Registration and abstract</a> </li>
+  <li><a href="./participants.html">Participants</a></li>
+  <li><a href="./venue.html">Conference venue</a></li>
+  <li><a href="./organizers.html">Organizers</a></li>
+  <li><a href="./contact.html">Contact</a></li>
+    <li><a href="./accommodation.html">Accommodation</a></li>
+  <li><a href="./sponsors.html">Sponsors</a></li>
+</ul>
+</div>
+
+<div id="menulogos">
+<a href="http://www.ugr.es" target="blank"><img src="./imagenes/logo-ugr.jpg" width="150" border="0" alt="Logo Ugr" /></a>
+<a href="http://www.ucm.es/info/rsef/gefam/" target="blank"><img src="./imagenes/logo-gefam.gif" width="150" border="0" alt="Logo Ciencias" /></a>
+<a href="http://www.ucm.es/info/rsef/gefam/" target="blank"><big>GEFAM</big></a>
+<a href="http://ic1.ugr.es/" target="blank"><img src="./imagenes/ICI.jpg" width="150" border="0" alt="Logo IC1" /></a>
+</div>
+
+
+	<div class="central">
+
+<h2><font face="Arial,Helvetica" color="black">Scientific Program</h2>
+
+<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">
+<tr>
+<tr> 
+<th colspan=4>Wednesday, February 1<sup>st</sup></th>
+</tr>
+
+<tr>
+<tr bgColor="#CDCDCD">
+<th>Chair</th>
+
+<th>Hour</th>
+<th>Speaker</th>
+<th>Title</th>
+</tr>
+
+<tr bgColor="#CDCDCD">
+<td align="center"></td>
+<td align="center">8:30-10:00</td>
+<td colspan=2 align="center">Registration</td>
+</tr>
+
+<tr bgColor="#CDCDCD">
+
+<td align="center"></td>
+<td align="center">10:00-10:25</td>
+<td colspan= 2 align="center">Opening Session: The Congress will be inaugurated by Vicepresident of GEFAM, Jesús Sánchez-Dehesa</td>
+</tr>
+
+<tr >
+<td rowspan= 2 align="center">Sheila L&oacute;pez Rosa</td>
+<td align="center">10:30-10:55</td>
+<td align="center">Elisa I. Mart&iacute;n Fern&aacute;ndez</td>
+
+<td align="center">Understanding the Behaviour of Phtalocyanines in Water</td>
+</tr>
+
+<tr >
+<td align="center">11:00-11:25</td>
+<td align="center">Hubert Cybulski</td>
+<td align="center">A computational study of the nuclear magnetic resonance parameters for double proton exchange pathways in the formamide-formic acid and formamide-formamidine complexes</td>
+</tr>
+
+<tr bgColor="#CDCDCD">
+<td align="center"></td>
+<td align="center">11:30-12:00</td>
+
+<td colspan=2 align="center">Coffee Break</td>
+</tr>
+
+<!-------              
+-->
+
+<tr >
+<td rowspan= 2 align="center">Marta Gonz&aacute;lez Gonz&aacute;lez</td>
+<td align="center">12:00-12:25</td>
+<td align="center">Antonio S&aacute;nchez Coronilla</td>
+<td align="center">Hydrogen Bonding of Carboline Derivates: A Theoretical Study</td>
+
+</tr>
+
+<tr >
+<td align="center">12:30-12:55</td>
+<td align="center">Vincent Loriot</td>
+<td align="center">Post-pulse molecular alignment optimized by quasi-direct-space-to-time pulse shaping</td>
+</tr>
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">13:00-15:30</td>
+<td colspan=2 align="center">Lunch</td>
+</tr>
+
+
+<!-------              
+-->
+
+<tr >
+<td rowspan= 3 align="center">Antonio S&aacute;nchez Coronilla</td>
+<td align="center">15:30-15:55</td>
+<td align="center">Isidro Lorenzo Geada</td>
+<td align="center">Stacking interactions between adenine and gallic acid</td>
+</tr>
+
+<tr >
+<td align="center">16:00-16:25</td>
+<td align="center">Carlos Cabezas</td>
+
+<td align="center">Neurotransmitters in the Gas Phase: A Microwave Spectroscopy Approach</td>
+</tr>
+
+<tr >
+<td align="center">16:30-16:55</td>
+<td align="center">Marta Gonz&aacute;lez Gonz&aacute;lez</td>
+<td align="center">The Photodissociation of CH<sub>3</sub>I in the blue edges of the A-band</td>
+</tr>
+
+<tr bgColor="#CDCDCD">
+<td align="center"></td>
+<td align="center">17:00-17:25</td>
+
+<td colspan=2 align="center">Coffee Break</td>
+</tr>
+
+<tr >
+<td rowspan= 2 align="center">Chairman??</td>
+<td align="center">17:30-17:55</td>
+<td align="center">Javier Rodr&iacute;guez D&iacute;az</td>
+
+<td align="center">Photodissociation of pyrrole - ammonia clusters by velocity map imaging</td>
+</tr>
+
+<tr >
+<td align="center">18:00-18:25</td>
+<td align="center">Javier Rodr&iacute;guez D&iacute;az</td>
+
+<td align="center">Photodissociation of pyrrole - ammonia clusters by velocity map imaging</td>
+</tr>
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">18:30-20:00</td>
+<td colspan=2 align="center"> Poster session
+</td>
+</tr>
+
+<!-------              
+-->
+</table>
+<br>
+<br>
+<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">
+<tr>
+<tr> 
+<th colspan=4>Thursday, February 2<sup>nd</sup></th>
+</tr>
+
+<tr>
+<tr bgColor="#CDCDCD">
+<th>Chair</th>
+
+<th>Hour</th>
+<th>Speaker</th>
+<th>Title</th>
+</tr>
+
+
+<tr >
+<td rowspan= 3 align="center">Sheila L&oacute;pez Rosa</td>
+<td align="center">9:30-9:55</td>
+<td align="center">Elisa I. Mart&iacute;n Fern&aacute;ndez</td>
+
+<td align="center">Understanding the Behaviour of Phtalocyanines in Water</td>
+</tr>
+
+<tr >
+<td align="center">10:00-10:25</td>
+<td align="center">Hubert Cybulski</td>
+<td align="center">A computational study of the nuclear magnetic resonance parameters for double proton exchange pathways in the formamide-formic acid and formamide-formamidine complexes</td>
+</tr>
+
+<tr >
+<td align="center">10:30-10:55</td>
+<td align="center">Hubert Cybulski</td>
+<td align="center">A computational study of the nuclear magnetic resonance parameters for double proton exchange pathways in the formamide-formic acid and formamide-formamidine complexes</td>
+
+
+<tr bgColor="#CDCDCD">
+<td align="center"></td>
+<td align="center">11:00-11:30</td>
+
+<td colspan=2 align="center">Coffee Break</td>
+</tr>
+
+<!-------              
+-->
+
+<tr >
+<td rowspan= 3 align="center">Marta Gonz&aacute;lez Gonz&aacute;lez</td>
+<td align="center">11:35-11:55</td>
+<td align="center">Antonio S&aacute;nchez Coronilla</td>
+<td align="center">Hydrogen Bonding of Carboline Derivates: A Theoretical Study</td>
+
+</tr>
+
+<tr >
+<td align="center">12:00-12:25</td>
+<td align="center">Vincent Loriot</td>
+<td align="center">Post-pulse molecular alignment optimized by quasi-direct-space-to-time pulse shaping</td>
+</tr>
+
+<tr >
+<td align="center">12:30-12:55</td>
+<td align="center">Silvia Bouz&oacute;n Capelo</td>
+
+<td align="center">The Fluorobenzene-Argon S<sub>1</sub> Excited State Intermolecular Potential Energy Surface</td>
+</tr>
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">13:00-14:00</td>
+<td colspan=2 align="center">Lunch</td>
+</tr>
+
+
+<!-------              
+-->
+
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">14:30-18:00</td>
+<td colspan=2 align="center">Visited guide to the Alhambra</td>
+</tr>
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">21:00</td>
+<td colspan=2 align="center">Conference dinner</td>
+
+
+<!-------              
+-->
+</table>
+<br>
+<br>
+
+<table border=1 cellspacing=0 cellpadding=2 bordercolor="666633">
+<tr>
+<tr> 
+<th colspan=4>Friday, February 3<sup>rd</sup></th>
+</tr>
+
+<tr>
+<tr bgColor="#CDCDCD">
+<th>Chair</th>
+
+<th>Hour</th>
+<th>Speaker</th>
+<th>Title</th>
+</tr>
+
+
+<tr >
+<td rowspan= 3 align="center">Sheila L&oacute;pez Rosa</td>
+<td align="center">9:30-9:55</td>
+<td align="center">Elisa I. Mart&iacute;n Fern&aacute;ndez</td>
+
+<td align="center">Understanding the Behaviour of Phtalocyanines in Water</td>
+</tr>
+
+<tr >
+<td align="center">10:00-10:25</td>
+<td align="center">Hubert Cybulski</td>
+<td align="center">A computational study of the nuclear magnetic resonance parameters for double proton exchange pathways in the formamide-formic acid and formamide-formamidine complexes</td>
+</tr>
+
+<tr >
+<td align="center">10:30-10:55</td>
+<td align="center">Hubert Cybulski</td>
+<td align="center">A computational study of the nuclear magnetic resonance parameters for double proton exchange pathways in the formamide-formic acid and formamide-formamidine complexes</td>
+</tr>
+
+
+<tr bgColor="#CDCDCD">
+<td align="center"></td>
+<td align="center">11:00-11:25</td>
+
+<td colspan=2 align="center">Coffee Break</td>
+</tr>
+
+<!-------              
+-->
+
+<tr >
+<td rowspan= 4 align="center">Marta Gonz&aacute;lez Gonz&aacute;lez</td>
+<td align="center">11:30-11:55</td>
+<td align="center">Antonio S&aacute;nchez Coronilla</td>
+<td align="center">Hydrogen Bonding of Carboline Derivates: A Theoretical Study</td>
+
+</tr>
+
+<tr >
+<td align="center">12:00-12:25</td>
+<td align="center">Vincent Loriot</td>
+<td align="center">Post-pulse molecular alignment optimized by quasi-direct-space-to-time pulse shaping</td>
+</tr>
+
+<tr >
+<td align="center">12:30-12:55</td>
+<td align="center">Silvia Bouz&oacute;n Capelo</td>
+
+<td align="center">The Fluorobenzene-Argon S<sub>1</sub> Excited State Intermolecular Potential Energy Surface</td>
+</tr>
+
+<tr >
+<td align="center">13:00-13:25</td>
+<td align="center">Silvia Bouz&oacute;n Capelo</td>
+
+<td align="center">The Fluorobenzene-Argon S<sub>1</sub> Excited State Intermolecular Potential Energy Surface</td>
+</tr>
+
+
+<tr bgColor="#CDCDCD" >
+<td align="center"></td>
+<td align="center">13:30-...</td>
+<td colspan=2 align="center">Lunch</td>
+</tr>
+
+
+</table>
+<br>
+<br>
+
+
+
+
+</div>
+
+
+</body>
+</html>

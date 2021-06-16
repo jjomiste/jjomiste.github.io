@@ -1,0 +1,174 @@
+\documentclass [12pt,a4paper,twoside] {book}
+\usepackage{latexsym}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{color}
+\usepackage[version=3]{mhchem} % Formula subscripts using \ce{}
+\usepackage{tabularx,array}
+\usepackage[utf8]{inputenc}
+\usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{lscape}
+\usepackage{colortbl}
+\usepackage[breaklinks=true,colorlinks=true,linkcolor=blue]{hyperref}
+\usepackage{fancyhdr}  %Estilo encabezado
+%\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE,LO]{ \thesection} % En las páginas impares, parte izquierda del encabezado, aparecerá el nombre de capítulo
+\fancyhead[LE,RO]{ } % En las páginas impares, parte izquierda del encabezado, aparecerá el nombre de capítulo
+%\fancyhead[RE]{ \thesection} % En las páginas pares, parte derecha del encabezado, aparecerá el nombre de sección
+\fancyfoot[CE,CO]{ \thepage} % En las páginas pares, parte derecha del encabezado, aparecerá el nombre de sección
+\pagestyle{fancy}
+%\fancyhead[LO]{ \leftmark} % En las páginas impares, parte izquierda del encabezado, aparecerá el nombre de capítulo
+%\fancyhead[RE]{ \rightmark} % En las páginas pares, parte derecha del encabezado, aparecerá el nombre de sección
+%\fancyhead[RE]{\fontfamily{phv}\fontseries{b}\fontsize{9}{11}\selectfont \rightmark} % En las páginas pares, parte derecha del encabezado, aparecerá el nombre de sección
+%\fancyhead[RO,LE]{\bf \thepage} % Números de página en las esquinas de los encabezados
+\renewcommand{\sectionmark}[1]{\markright{{\thesection. #1}}} % Formato para la sección: N.M. Nombre
+%\renewcommand{\chaptermark}[1]{\markboth{{\thechapter. #1}}{}} % Formato para el capítulo: N. Nombre
+%\renewcommand{\sectionmark}[1]{\markright{{\thesection. #1}}} % Formato para la sección: N.M. Nombre
+%\setlength{\headheight}{15pt}
+%\renewcommand{\chapter}{}{}
+%\renewcommand{\section}{}{}
+%\renewcommand{\subsection}{}{}
+%\addtolength{\headwidth}{\marginparwidth}
+%\addtolength{\headwidth}{\marginparsep}
+%%%%%%%%%%%%%%%%%%%%%%%%% Do not modify %%%%%%%%%%%%%%
+\setlength{\headheight}{0mm}
+\setlength{\headsep}{0mm}
+\setlength{\topskip}{0mm}
+\setlength{\oddsidemargin}{5mm}
+\setlength{\evensidemargin}{-7mm}
+\setlength{\textwidth}{165mm}
+\setlength{\topmargin}{0mm}
+\setlength{\textheight}{250mm}
+%%%%%%%%%%%%%%%%%%%%%%%%% Do not modify %%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% Do not modify %%%%%%%%%%%%%%
+%\setlength{\headheight}{0mm}
+%\setlength{\headsep}{-5mm}
+%\setlength{\topskip}{-5mm}
+%\setlength{\oddsidemargin}{-5mm}
+%\setlength{\evensidemargin}{-5mm}
+%\setlength{\textwidth}{165mm}
+%\setlength{\topmargin}{0mm}
+%\setlength{\textheight}{250mm}
+%\setlength{\textheight}{270mm}
+%%%%%%%%%%%%%%%%%%%%%%%%% Do not modify %%%%%%%%%%%%%%
+
+\title{
+{\Large UNIVERSIDADE DE SANTIAGO DE COMPOSTELA \\ FACULTADE DE QUÍMICA \\ Departamento de Química Física} \\[0.5cm]
+\includegraphics{./logo-usc.eps} \\[0.5cm]
+III Jornadas de Jóvenes Investigadores en Física Atómica y Molecular
+\\
+(J2IFAM~~2011)
+}
+\author{ }
+%\author{ {Rubén Meana Pañeda}\\\\
+%{Departamento de Química Física,}\\Universidade de Santiago de Compostela,\\Galicia, España}
+\date{Santiago de Compostela, February, 3$^{\rm rd}$-4$^{\rm th}$ 2011 } % La doble contrabarra "\\" introduce una nueva línea
+
+\begin {document}
+\thispagestyle{empty}
+%\begin{center}{\scalebox{0.82}{{\includegraphics{coverJ2IFAM2011-NEW.eps}}}}\end{center}
+\begin{picture}(18,4)
+%\put(-10,-10){\includegraphics[width=3cm,height=4cm]{coverJ2IFAM2011-NEW.eps}}
+\put(-95,-775){\includegraphics{coverJ2IFAM2011-NEW.eps}}
+\end{picture}
+\newpage
+\thispagestyle{empty}
+
+%\pagestyle{fancy}
+%\fancyhead[RO,LE]{\bf \thesubsection} % Números de página en las esquinas de los encabezados
+\pagestyle{plain}
+\renewcommand{\contentsname}{Index}
+\renewcommand{\chaptername}{}
+\renewcommand{\tablename}{Table}
+\renewcommand{\figurename}{Figure}
+% incluir portada
+\maketitle
+\tableofcontents 
+\chapter*{About J2IFAM}
+\addcontentsline{toc}{chapter}{About J2IFAM}
+
+{\it Jornadas de Jóvenes Investigadores en Física Atómica y Molecular (J2IFAM)} was born in Madrid on December, 12$^{\rm th}$ 2008, in order to establish a meeting point where graduate students and recent postdocs could discuss their research advancements in physics and chemical physics. This first edition was held at Instituto de Física Fundamental (CSIC) and was financed by CSIC (Consejo Superior de Investigaciones Científicas), GEFAM (Grupo Especializado de Física Atómica y Molecular) and RSEF (Real Sociedad Española de Física). The organizers were the following young researchers:
+
+\begin{itemize}
+\item Pedro Bargueño de Retes
+\item Ruth Martínez Casado
+\item Ricardo Pérez de Tudela Ortega
+\item Jesús Pérez Ríos
+\end{itemize}
+
+The second edition took place at Universitat of Barcelona on January 21$^{\rm st}$-22$^{\rm nd}$ 2010 and was supported by GEFAM (Grupo Especializado de Física Atómica y Molecular) and Universitat de Barcelona. It was organized by the following Ph.D. students:
+
+\begin{itemize}
+\item Marta Abad García
+\item David Bote Paz
+\item José María Escartín Esteban
+\item Víctor Morón Tejero
+\end{itemize}
+
+The current edition takes place at Universidade de Santiago de Compostela on February, 3$^{\rm rd}$-4$^{\rm th}$ 2011. The main sponsor is GEFAM (Grupo Especializado de Física Atómica y Molecular), but CESGA (Centro de Supercomputación de Galicia), Coca-Cola and Universidade de Santiago de Compostela also contribute in an important way to organize the meeting. The organizers wish to thank these organizations and all the participants of  the J2IFAM.   
+
+\chapter*{Organizing Committee}
+\addcontentsline{toc}{chapter}{Organizing Committee}
+
+The III J2IFAM is organized by eight Ph.D. students and a post-doc from Universidade de Santiago de Compostela:
+\begin{itemize}
+    \item Silvia Diana Bouzón Capelo
+    \item Hubert Cybulski
+    \item Ceila Fong Padrón
+    \item Daniela Josa
+    \item Rubén Meana Pañeda
+    \item Juan José Nogueira Pérez
+    \item Jaime Quintanilla López
+    \item Alejandro Ramos Tajes
+    \item Marcos Rellán Piñeiro
+\end{itemize}
+
+Departamento de Química Física y Centro Singular de Investigación en Química Biológica y Materiales Moleculares, Universidade de Santiago de Compostela
+\\
+\vspace{0.5cm}
+
+Cultural and Tourist Support
+
+\begin{itemize}
+    \item María de la Trinidad Romay Piñeiro 
+\end{itemize}
+
+\vspace{1.0cm}
+
+The organizers can be contacted by email at {\tt j2ifam2011@usc.es}.
+
+\chapter*{ Sponsors and Supporters}
+\addcontentsline{toc}{chapter}{Sponsors and Supporters}
+We gratefully acknowledge the generous support of the following institutions:
+
+\begin{center}
+\begin{tabular}{m{5.4cm}m{5.4cm}}
+\begin{center}{\scalebox{0.62}{{\includegraphics{logo-usc.eps}}}}\end{center}& \begin{center}{\scalebox{0.72}{{\includegraphics{logo-gefam.eps}}}}\end{center}\\
+\begin{center}{\scalebox{0.32}{{\includegraphics{logo_cesga.eps}}}}\end{center}& \begin{center}{\scalebox{0.42}{{\includegraphics{logo_cc.eps}}}}\end{center}\\
+\end{tabular}
+\end{center}
+
+\chapter*{Scientific Program}
+\addcontentsline{toc}{chapter}{Scientific Program}
+\input{sp.tex}
+\part*{Abstracts}
+\addcontentsline{toc}{part}{Abstracts}
+\newpage
+ \chapter*{Oral Presentations} 
+\addcontentsline{toc}{chapter}{Oral Presentations}
+\newpage
+\input{abstracts-oral.tex}
+ \chapter*{Posters} 
+\addcontentsline{toc}{chapter}{Posters}
+\newpage
+\input{abstracts-poster.tex}
+\chapter*{List of Participants}
+\addcontentsline{toc}{chapter}{List of Participants}
+\input{listofparticipants.txt}
+
+
+
+\end{document}
