@@ -43,7 +43,7 @@ $subject= "J2IFAM2012";
 $desde = 'From: '.$_POST[email];
 $contingut = "
 El mensaje se ha enviado el dia $dia a las $hora\n\n
----------------Registration J2IFAM2011-------------------------------------\n
+---------------Registration J2IFAM2012-------------------------------------\n
 Name= $_POST[name]\n
 Middle Name= $_POST[middle]\n
 Last Name= $_POST[lastname]\n
