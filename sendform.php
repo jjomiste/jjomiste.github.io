@@ -38,7 +38,7 @@ if ( $name!='' && $lastname!='' && $email!='' && $organization!='' && $address!=
 // si es asi armamos el correo
 $dia=date("m.d.Y");
 $hora=date("H:i:s");
-$destinatario="j2ifam@ugr.es";
+$destinatario="jjomiste@gmail.com";
 $subject= "J2IFAM2012";
 $desde = 'From: '.$_POST[email];
 $contingut = "
