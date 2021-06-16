@@ -43,7 +43,7 @@ $subject= "J2IFAM2012";
 $desde = 'From: '.$_POST[email];
 $contingut = "
 El mensaje se ha enviado el dia $dia a las $hora\n\n
----------------Registration J2IFAM2011-------------------------------------\n
+---------------Registration J2IFAM2012-------------------------------------\n
 Name= $_POST[name]\n
 Middle Name= $_POST[middle]\n
 Last Name= $_POST[lastname]\n
@@ -67,15 +67,15 @@ Guided Visit to Alhambra= $vc\n
 Conference dinner= $din\n
 ----------------------------------------------------------------------------\n
 ";
-mail($destinatario, $subject, $contingut, $desde);
-$flag='ok';
-$mensaje='<div id="ok">Your form has been submitted correctly. Thank you.</div>';
-echo $mensaje;
-} else {
+//mail($destinatario, $subject, $contingut, $desde);
+//$flag='ok';
+//$mensaje='<div id="ok">Your form has been submitted correctly. Thank you.</div>';
+//echo $mensaje;
+//} else {
 //si no todos los campos fueron completados se frena el envio y avisamos al usuario
-$flag='err';
-$mensaje='<div id="error">Please, fill all the required fields.</div>';
-echo $mensaje;
-}
+//$flag='err';
+//$mensaje='<div id="error">Please, fill all the required fields.</div>';
+//echo $mensaje;
+//}
 }
 ?> 
