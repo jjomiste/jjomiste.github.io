@@ -48,9 +48,9 @@ h3 {color: #009668;
 
 /* Menu left */
 
-#menuleft {height: 470px;
-	   width: 180px;	   
-	   background: #009688;
+#menuleft {height: 380px;
+	   width: 150px;	   
+	   background: #009788;	
 	   padding-right: 0px;
 	  margin-top: 0px;	  
 	  margin-right: 20px;
@@ -59,8 +59,9 @@ h3 {color: #009668;
 	  border-width:0px;
 	  border-style:solid;
           line-height:15px;
-	text-align:left;
-	float: left;} 
+	  text-align: left;
+	float: left;
+	  } 
 
 #menuleft ul {
 	float: right;
